@@ -1,4 +1,5 @@
 {
   "name":"file4",
-  "desc":"this is file4"
+  "desc":"this is file4",
+  "test":"this is an test file"
 }
