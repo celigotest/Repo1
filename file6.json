@@ -1,4 +1,5 @@
 {
   "type": "json",
-  "name": "file6"
+  "name": "file6",
+  "editable": true
 }
